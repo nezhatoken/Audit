@@ -12,4 +12,4 @@ https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Securit
 
 CA Audit Link
 <br>
-Pending!!
+[Pending!!](https://app.solidproof.io/projects/nezha-token?audit_id=904)https://app.solidproof.io/projects/nezha-token?audit_id=904
